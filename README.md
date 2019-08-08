@@ -47,6 +47,6 @@
 | [√] | 魁拔之书 | 青春树 | 190805 |  | 看了魁拔1、2、3电影 ，找了这本书，相当于电影的前传，像魁拔编年史，书的故事性差些，世界观宏大，的确如果要故事性和细腻，一本书根本不够写，电影比书好看，魁拔4据说20年来，要看。<br> 玄幻性可以，科幻不够硬，总之好过哪吒 哈 | |
 | [reading] | 重新定义团队：谷歌如何工作 |  | 190806 |  | | |
 | [T] | test |  | 190808 |  | | <b>test <br> <li>test1<li>test2 <br><ul>test3 <ul>test4 <br><ol>test5 <ol>test6<br><del>test7</del><br><em>test8</em> <i>test9 </i> |
-| [T] | test |  | 190808 |  | | <ol><li>xx<li>yy<li>zz</ol> <br> <ul><li>xx<li>yy<li>zz</ul> |
+| [T] | test |  | 190808 |  | | <ol><li>xx<li>yy<li>zz</ol> <br> <ul><li>xxx<li>yyy<li>zzz</ul>  <br> <li>xxxx<li>yyyy<li>zzzz |
 |  | 书名 | 时间/作者 | 进度 | 阅读体会 | 后感 | |
 ------------------------------------------------------
