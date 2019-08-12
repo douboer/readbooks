@@ -52,7 +52,6 @@
 | 40 | :book: | 群氓之族 | 201908 | | | 翻译兼具文采和流畅度，邓伯宸，找些他译作的其他说看看[见下]<br>不管怎样自由开放，人类群体认同的底层逻辑还是无处不在的运作着<br>人类既怕不同而被落单，又时常处处彰显与众不同以突出群体的优越性 |  |
 | 41 | :heart: | 奥斯曼帝国 | time/author | progress | [douban](https://book.douban.com/subject/33387414/) | review | |
 | 42 | :heart: | 遙遠的目擊者 | time/author | progress | [douban](https://book.douban.com/subject/25736938/) | review | |
-
 | x | :heart: | name | time/author | progress | [douban]() | review | |
 | x | [T] | test | | 190808 | | | <ol><li>xx<li>yy<li>zz</ol> <br> <ul><li>xxx<li>yyy<li>zzz</ul>  <br> <li>xxxx<li>yyyy<li>zzzz |
 | x | | 书名 | 时间/作者 | 进度 | [douban]() | 后感 | |
