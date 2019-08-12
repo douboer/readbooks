@@ -10,7 +10,7 @@
 
 #### :green_book:  已读  :book:  在读  :heart:  想读 
 
-| ID | 完成 | 书名 | 时间/作者 | 进度 | [douban](https://book.douban.com/mine?status=wish) | 我想 |
+| ID | status | [书名](https://book.douban.com/mine?status=wish) | time/author | progress | | thinking |
 | --- | ---  | --- |:----------:| -----:|:--- |:--- |
 | 1 | :green_book: | 战国日本 | 201904xx | | | |
 | 2 | :green_book: | 5G网络架构 | 杨峰义等/201904xx | | | |
@@ -52,11 +52,11 @@
 | 38 | :green_book: | 魁拔之书 | 青春树 | 190805 | | 看了魁拔1、2、3电影 ，找了这本书，相当于电影的前传，像魁拔编年史，书的故事性差些，世界观宏大，的确如果要故事性和细腻，一本书根本不够写，电影比书好看，魁拔4据说20年来，要看。<br> 玄幻性可以，科幻不够硬，总之好过哪吒 哈 | |
 | 39 | :book: | 重新定义团队：谷歌如何工作 | | 190806 | | | |
 | 40 | :book: | 群氓之族 | 201908 | | | 翻译兼具文采和流畅度，邓伯宸，找些他译作的其他说看看[见下]<br>不管怎样自由开放，人类群体认同的底层逻辑还是无处不在的运作着<br>人类既怕不同而被落单，又时常处处彰显与众不同以突出群体的优越性 |  |
-| 41 | :heart: | 奥斯曼帝国 | time/author | progress | [douban](https://book.douban.com/subject/33387414/) | review | |
-| 42 | :heart: | 遙遠的目擊者 | time/author | progress | [douban](https://book.douban.com/subject/25736938/) | review | |
-| x | :heart: | name | time/author | progress | [douban]() | review | |
+| 41 | :heart: | [奥斯曼帝国](https://book.douban.com/subject/33387414/) | time/author | progress | | review | |
+| 42 | :heart: | [遙遠的目擊者](https://book.douban.com/subject/25736938/) | time/author | progress | | review | |
+| x | :heart: | [name]() | time/author | progress | | review | |
 | x | [T] | test | | 190808 | | | <ol><li>xx<li>yy<li>zz</ol> <br> <ul><li>xxx<li>yyy<li>zzz</ul>  <br> <li>xxxx<li>yyyy<li>zzzz |
-| x | | 书名 | 时间/作者 | 进度 | [douban]() | 后感 | |
+| x | | 书名 | 时间/作者 | 进度 | | 后感 | |
 ------------------------------------------------------
 
 
