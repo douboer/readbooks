@@ -23,7 +23,7 @@ ID | status | [书名](https://book.douban.com/mine?status=wish) | time/author |
 9 | :green_book: | 最好的辩护 | 201905xx | | | | |
 10 | :green_book: | 耶路撒冷三千年 | 201905xx | | | | | | 
 11 | :green_book: | 巨流河 | | | | | | | 
-12 | :green_book: |  [松本行弘的程序世界](https://book.douban.com/subject/6756090/) | | | 不仅是ruby的语法书，内容非常丰富，OO，元编程、函数式编程的介绍都有较详细讲解，安全性和设计模式也有涉及，每一个主题可以独立写一堆书，松本行弘结合ruby及自己理解来讲这些内容，跳着看完全没有问题 |
+12 | :green_book: |  [松本行弘的程序世界](https://book.douban.com/subject/6756090/) | | | | 不仅是ruby的语法书，内容非常丰富，OO，元编程、函数式编程的介绍都有较详细讲解，安全性和设计模式也有涉及，每一个主题可以独立写一堆书，松本行弘结合ruby及自己理解来讲这些内容，跳着看完全没有问题 |
 13 | :green_book: | TED演讲的力量 | 201904xx/安德森 | | | | |
 14 | :green_book: | 菊与刀 | 201905xx，二刷 | | |
 15 | :green_book: | 斯坦福极简经济学 | | | | 
