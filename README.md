@@ -8,6 +8,8 @@
 ```
 ---------------------
 
+#### :green_book:  已读  :book:  在读  :heart:  想读 
+
 | ID | 完成 | 书名 | 时间/作者 | 进度 | [douban](https://book.douban.com/mine?status=wish) | 我想 |
 | --- | ---  | --- |:----------:| -----:|:--- |:--- |
 | 1 | :green_book: | 战国日本 | 201904xx | | | |
@@ -56,10 +58,6 @@
 | x | [T] | test | | 190808 | | | <ol><li>xx<li>yy<li>zz</ol> <br> <ul><li>xxx<li>yyy<li>zzz</ul>  <br> <li>xxxx<li>yyyy<li>zzzz |
 | x | | 书名 | 时间/作者 | 进度 | [douban]() | 后感 | |
 ------------------------------------------------------
-
- :green_book:  已读 <br>
- :book:  在读 <br>
- :heart:  想读 <br>
 
 
 'a,'bs/^/line('.')-57/
