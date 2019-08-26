@@ -16,6 +16,7 @@
 
 
 ## references
+1. [日本战国时代之幕府沉浮](http://blog.sina.com.cn/s/blog_14aa9fc660102y4of.html)
 1. [揭秘日本民族性格和心理的形成：日本战国史](mzx.md)
 1. [天皇统治下的日本为何会进入战国时代](https://baijiahao.baidu.com/s?id=1636511315297516562&wfr=spider&for=pc)
 1. [日本战国的历史背景](https://zhidao.baidu.com/question/875776127495380892.html)
@@ -26,7 +27,6 @@
 1. [这些日本战国时期的搞笑历史](http://baijiahao.baidu.com/s?id=1611028547674488996&wfr=spider&for=pc)
 1. [日本战国武将很多，绰号也很夸张，那么他们的战绩如何？](https://baijiahao.baidu.com/s?id=1607651705819351789&wfr=spider&for=pc)
 1. [透过日本战国三杰悲剧品民族性格(转载)](http://bbs.tianya.cn/post-333-1076618-1.shtml)
-1. []()
 1. []()
 1. []()
 
