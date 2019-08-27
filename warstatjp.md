@@ -15,9 +15,11 @@
 
 
 
+
+
 ## references
-1. [日本战国时代之幕府沉浮](http://blog.sina.com.cn/s/blog_14aa9fc660102y4of.html)
 1. [揭秘日本民族性格和心理的形成：日本战国史](mzx.md)
+1. [日本战国时代之幕府沉浮](http://blog.sina.com.cn/s/blog_14aa9fc660102y4of.html)
 1. [天皇统治下的日本为何会进入战国时代](https://baijiahao.baidu.com/s?id=1636511315297516562&wfr=spider&for=pc)
 1. [日本战国的历史背景](https://zhidao.baidu.com/question/875776127495380892.html)
 1. [如何通俗易懂地讲述日本的战国历史中德川家康，织田信长，武田信玄等人的故事？](https://www.zhihu.com/question/31352503/answer/407970195)
