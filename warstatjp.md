@@ -35,7 +35,7 @@
 1. [日本历史基础知识 天皇、将军、幕府、大名与上洛](https://www.wilf.cn/post/996.html)
 1. [战国武将的家谱](https://app.yinxiang.com/fx/92e2389f-856f-450c-b964-988d9ca0d771)
 1. [为什么日本战国时期人口不降反升](https://www.zhihu.com/question/35629335)
-1. []()
+1. [日本战国时期兵力上万的战役不完全统计表](https://app.yinxiang.com/fx/4e94bfc2-fba4-4ace-bf9a-e919a91785ed)
 1. []()
 1. []()
 1. []()
