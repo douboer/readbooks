@@ -30,6 +30,8 @@
 
 中国文化的包容性
 
+日本封建制
+
 
 
 
@@ -50,8 +52,8 @@
 1. [战国武将的家谱](https://app.yinxiang.com/fx/92e2389f-856f-450c-b964-988d9ca0d771)
 1. [为什么日本战国时期人口不降反升](https://www.zhihu.com/question/35629335)
 1. [日本战国时期兵力上万的战役不完全统计表](https://app.yinxiang.com/fx/4e94bfc2-fba4-4ace-bf9a-e919a91785ed)
-1. []()
-1. []()
+1. [揭开日本民族性格的面纱（一）](https://www.jianshu.com/p/1f2bc4018f7a)
+1. [揭开日本民族性格的面纱（二）](https://www.jianshu.com/p/0d11a84f733a)
 1. []()
 1. []()
 1. []()
