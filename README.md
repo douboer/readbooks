@@ -18,13 +18,13 @@ ID | status | [书名](https://book.douban.com/mine?status=wish) | time/author |
 2 | :green_book: | 5G网络架构 | 杨峰义等/201904xx | | | :star::star::star: |
 3 | :green_book: | 通信指导-从微积分到5G| 杨学志/201904xx | | | :star::star::star: |
 4 | :green_book: | 极简欧洲史 | | | |:star::star::star::star: | |
-5 | :green_book: | 边城 | 二刷 | | | | | |
-6 | :green_book: | 自控力 | | | | | | 
-7 | :green_book: | 观呼吸 | | | | 一句话就是多观呼吸有益 | | | 
-8 | :green_book: | 最好的辩护 | 201905xx | | | | |
-9 | :green_book: | 耶路撒冷三千年 | 201905xx | | | 翻译差。宗教,语言引导性比较强，人物评述时常为我所用有失客观。<br>历史是任人打扮的小姑娘，好在够长尺度来看，人们的政治立场总是忽左忽右，所以，妆容总会洗去，宗教历史就又不同，任何信仰需要光环加持，一部古兰经管几千年，未来还要管下去，历史需要让这个光环越来越熠熠生辉 | | |
+5 | :green_book: | 边城 | 二刷 | | | :star::star::star::star::star: | | |
+6 | :green_book: | 自控力 | | | 可以归为好鸡汤吧 :star::star::star::star: | |
+7 | :green_book: | 观呼吸 | | | | 一句话就是多观呼吸有益 :star: :star: :star: :star: | | | 
+8 | :green_book: | 最好的辩护 | 201905xx | | | :star: :star: :star: :star: | |
+9 | :green_book: | 耶路撒冷三千年 | 201905xx | | | 翻译差。宗教,语言引导性比较强，人物评述时常为我所用有失客观。<br>历史是任人打扮的小姑娘，好在够长尺度来看，人们的政治立场总是忽左忽右，所以，妆容总会洗去，宗教历史就又不同，任何信仰需要光环加持，一部古兰经管几千年，未来还要管下去，历史需要让这个光环越来越熠熠生辉  :star: :star: :star: | | |
 10 | :green_book: | 巨流河 | | | | | | | 
-11 | :green_book: |  [松本行弘的程序世界](https://book.douban.com/subject/6756090/) | | | | 不仅是ruby的语法书，内容非常丰富，OO，元编程、函数式编程的介绍都有较详细讲解，安全性和设计模式也有涉及，每一个主题可以独立写一堆书，松本行弘结合ruby及自己理解来讲这些内容，跳着看完全没有问题 |
+11 | :green_book: |  [松本行弘的程序世界](https://book.douban.com/subject/6756090/) | | | | 不仅是ruby的语法书，内容非常丰富，OO，元编程、函数式编程的介绍都有较详细讲解，安全性和设计模式也有涉及，每一个主题可以独立写一堆书，松本行弘结合ruby及自己理解来讲这些内容，跳着看完全没有问题 :star::star::star::star: |
 12 | :green_book: | TED演讲的力量 | 201904xx/安德森 | | | | |
 13 | :green_book: | 菊与刀 | 201905xx，二刷 | | |
 14 | :green_book: | 斯坦福极简经济学 | | | | 
