@@ -19,7 +19,7 @@ ID | status | [书名](https://book.douban.com/mine?status=wish) | time/author |
 3 | :green_book: | 通信指导-从微积分到5G| 杨学志/201904xx | | | :star::star::star: |
 4 | :green_book: | 极简欧洲史 | | | |:star::star::star::star: | |
 5 | :green_book: | 边城 | 二刷 | | | :star::star::star::star::star: | | |
-6 | :green_book: | 自控力 | | | 可以归为好鸡汤吧 :star::star::star::star: | |
+6 | :green_book: | 自控力 | | | |可以归为好鸡汤吧 :star::star::star::star:  |
 7 | :green_book: | 观呼吸 | | | | 一句话就是多观呼吸有益 :star: :star: :star: :star: | | | 
 8 | :green_book: | 最好的辩护 | 201905xx | | | :star: :star: :star: :star: | |
 9 | :green_book: | 耶路撒冷三千年 | 201905xx | | | 翻译差。宗教,语言引导性比较强，人物评述时常为我所用有失客观。<br>历史是任人打扮的小姑娘，好在够长尺度来看，人们的政治立场总是忽左忽右，所以，妆容总会洗去，宗教历史就又不同，任何信仰需要光环加持，一部古兰经管几千年，未来还要管下去，历史需要让这个光环越来越熠熠生辉  :star: :star: :star: | | |
