@@ -35,7 +35,6 @@
 
 
 
-
 ## references
 1. [揭秘日本民族性格和心理的形成：日本战国史](mzx.md)
 1. [日本战国时代之幕府沉浮](http://blog.sina.com.cn/s/blog_14aa9fc660102y4of.html)
