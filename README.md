@@ -80,6 +80,7 @@ ID||||||||
 -|-|-|-|-|-|-|-|
 37 | :book: | 杨小凯谈经济 | | 190804 | | 写牛鬼蛇神录的杨小凯还叫杨曦光，很有文学作家潜质，可见聪明人的确可跨界|
 52 | :book: | [她身之欲](https://book.douban.com/subject/26804793/) | time/author | progress | | review | |
+55 | :heart: | [禅的故事](https://book.douban.com/subject/30264998/) | 20190917/易中天 | 50%| | review | |
 
 <br><br>
 
