@@ -28,7 +28,7 @@ ID | status | [书名](https://book.douban.com/mine?status=wish) | time/author |
 12 | :green_book: | TED演讲的力量 | 201904xx/安德森 | | | | |
 13 | :green_book: | 菊与刀 | 201905xx，二刷 | | |
 14 | :green_book: | 斯坦福极简经济学 | | | | 
-15 | :green_book: | 地中海的衰落 |  20190524 | | | 地中海文明基本上代表了史前人类文明历史，本书对了解地中海及周边文明有帮助，不同文明之间的相互连接、消长有比较深入描述，基本按自然时间基线推进，所有历史事件有非常详细的时间点，便于阅读时横向比对历史关联。 <br> 由于涉及时间跨度非常宏达，而且人类发展进程中地中海无疑是热点，虽然篇幅大，但很多部分由其是后部分，叙事有些潦草。作为了解人类文明和地中海文明的框架很有帮助。 <br> 人类早期文明都是由一些非常小型地域辐射开的，书中有很多地域及人种名称，手头有一本世界历史地图册能帮助梳理脉络。 | |
+15 | :green_book: | [地中海的衰落](https://book.douban.com/subject/26667847/) |  20190524 | | | 地中海文明基本上代表了史前人类文明历史，本书对了解地中海及周边文明有帮助，不同文明之间的相互连接、消长有比较深入描述，基本按自然时间基线推进，所有历史事件有非常详细的时间点，便于阅读时横向比对历史关联。 <br> 由于涉及时间跨度非常宏达，而且人类发展进程中地中海无疑是热点，虽然篇幅大，但很多部分由其是后部分，叙事有些潦草。作为了解人类文明和地中海文明的框架很有帮助。 <br> 人类早期文明都是由一些非常小型地域辐射开的，书中有很多地域及人种名称，手头有一本世界历史地图册能帮助梳理脉络。 | |
 16 | :heart: | 美国宪政历程 | 影响美国的25个司法大案 | | | | | | |
 17 | :heart: | 影响力  | | | | | | |
 18 | :heart: | [C专家编程](https://book.douban.com/subject/2377310/) | | 26% | |
@@ -77,6 +77,13 @@ ID | status | [书名](https://book.douban.com/mine?status=wish) | time/author |
 61 | :book: | [联邦党人文集]() | time/author | progress | | review | |
 62|:green_book:|[古典经济学原则与《国富论》](https://book.douban.com/subject/26760958/)|time/author|100%|| 亚当斯密的国富论是古典经济学的经典之作，但国富论一则成书与200多年前，译本读起来有些都比较晦涩，二则大篇幅，其中大量的例证，比如应用古希腊和古罗马的一些例子，和大量古代先哲的观点，需要精力消化。国富论之所以对一些显而易见的观点如此长篇论述，是因为当时人们对于这些观点排斥。<br><br>本书概括了古典经济学的几个要点：自由交易，创造，自由市场、低税率、权力受限的政府、财产权和稳定的货币，并分章节分别加以阐述，简明扼要，条理清晰。 <br><br> 古典经济学与凯恩斯主义的重要分野之一是前者强调市场的自愈作用，认为自由市场的前提下，大量交易主体形成一双巨大无形的手确保最终价格机制的形成和资源最优化配置，后者强调政府的宏观干预和计划作用，认为政府在宏观方面应有所作为，对经济总体进行合理规划，并在运行过程中对偏差进行适当校正，防微杜渐，确保目标达成。 :star: :star: :star: :star:     | |
 63 | :book: | [极简亚洲千年史](https://book.douban.com/subject/26864396/) | 20191008/[美]斯图亚特·戈登(Stewart Gordon) | 10% | | review | |
+64 | :book: | [google软件测试之道](https://book.douban.com/subject/25742200/) | time/20191010 | 14% | | review | |
+65 | :heart: | [罗马人的故事](https://book.douban.com/subject/25777432/) | time/日本-盐野七生 | progress | | review | |
+66 | :heart: | [海都物语](https://book.douban.com/subject/26767261/) | time/日本-盐野七生 | progress | | review | |
+67 | :heart: | [希腊人的故事](https://book.douban.com/subject/30337300/) | time/日本-盐野七生 | progress | | review | |
+68 | :heart: | [薛兆丰经济学讲义](https://book.douban.com/subject/30280804/) | time/薛兆丰| progress | | review | |
+69 | :heart: | [地中海史诗三部曲（珍藏版全三册）](https://book.douban.com/subject/27055137/) | time/[英] 罗杰·克劳利 | progress | | review | |
+70 | :heart: | [凤凰项目:一个IT运维的传奇故事](https://book.douban.com/subject/26644070/) | time/author | progress | | review | |
 x | :heart: | [name]() | time/author | progress | | review | |
 x | [T] | test | | 190808 | | | <ol><li>xx<li>yy<li>zz</ol> <br> <ul><li>xxx<li>yyy<li>zzz</ul>  <br> <li>xxxx<li>yyyy<li>zzzz |
 x | | 书名 | 时间/作者 | 进度 | | 后感 | |
