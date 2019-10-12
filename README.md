@@ -78,7 +78,7 @@ ID | status | [书名](https://book.douban.com/mine?status=wish) | time/author |
 62|:green_book:|[古典经济学原则与《国富论》](https://book.douban.com/subject/26760958/)|time/author|100%|| 亚当斯密的国富论是古典经济学的经典之作，但国富论一则成书与200多年前，译本读起来有些都比较晦涩，二则大篇幅，其中大量的例证，比如应用古希腊和古罗马的一些例子，和大量古代先哲的观点，需要精力消化。国富论之所以对一些显而易见的观点如此长篇论述，是因为当时人们对于这些观点排斥。<br><br>本书概括了古典经济学的几个要点：自由交易，创造，自由市场、低税率、权力受限的政府、财产权和稳定的货币，并分章节分别加以阐述，简明扼要，条理清晰。 <br><br> 古典经济学与凯恩斯主义的重要分野之一是前者强调市场的自愈作用，认为自由市场的前提下，大量交易主体形成一双巨大无形的手确保最终价格机制的形成和资源最优化配置，后者强调政府的宏观干预和计划作用，认为政府在宏观方面应有所作为，对经济总体进行合理规划，并在运行过程中对偏差进行适当校正，防微杜渐，确保目标达成。 :star: :star: :star: :star:     | |
 63 | :book: | [极简亚洲千年史](https://book.douban.com/subject/26864396/) | 20191008/[美]斯图亚特·戈登(Stewart Gordon) | 10% | | review | |
 64 | :book: | [google软件测试之道](https://book.douban.com/subject/25742200/) | time/20191010 | 14% | | review | |
-65 | :heart: | [罗马人的故事](https://book.douban.com/subject/25777432/) | time/日本-盐野七生 | progress | | review | |
+65 | :heart: | [罗马人的故事(15册)](https://book.douban.com/subject/25777432/) ![img](imgs/罗马人的故事.jpg)| time/日本-盐野七生 | progress | | review | |
 66 | :heart: | [海都物语](https://book.douban.com/subject/26767261/) | time/日本-盐野七生 | progress | | review | |
 67 | :heart: | [希腊人的故事](https://book.douban.com/subject/30337300/) | time/日本-盐野七生 | progress | | review | |
 68 | :heart: | [薛兆丰经济学讲义](https://book.douban.com/subject/30280804/) | time/薛兆丰| progress | | review | |
