@@ -85,7 +85,7 @@ ID | status | [书名](https://book.douban.com/mine?status=wish) | time/author |
 69 | :heart: | [地中海史诗三部曲（珍藏版全三册）](https://book.douban.com/subject/27055137/) | time/[英] 罗杰·克劳利 | progress | | review | |
 70 | :heart: | [凤凰项目:一个IT运维的传奇故事](https://book.douban.com/subject/26644070/) | time/author | progress | | review | |
 x | :heart: | [name]() | time/author | progress | | review | |
-x | [T] | test | | 190808 | |<b>test</b> <br> <ol><li>xx<li>yy<li>zz</ol> <br> <ul><li>xxx<li>yyy<li>zzz</ul>  <br> <li>xxxx<li>yyyy<li>zzzz |
+x | [T] | test | | 190808 | |<b>test</b> <br> <ol><li>xx<li>yy<li>zz</ol> <br> <ul><li>xxx<li>yyy<li>zzz</ul>  <br> <li>xxxx<li>yyyy<li>zzzz <br> <ol>xxxxx<ol>yyyyy<ol>zzzzz|
 x | | 书名 | 时间/作者 | 进度 | | 后感 | |
 ------------------------------------------------------
 
