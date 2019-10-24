@@ -1,7 +1,6 @@
 # 阅读管理
 
-#### from 2019/4/8
-![img](imgs/haveaniceday1.jpg)
+#### from 2019/4/8 ![img](imgs/haveaniceday1.jpg)
 
 ---------------------
 ```
