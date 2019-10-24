@@ -103,7 +103,7 @@ ID||||||||
 
 [读书笔记](notehow.md)
 
-![img](imgs/haveaniceday1.jpg "Title" {width=40px height=400px})
+![img](imgs/haveaniceday1.jpg)
 
 
 
