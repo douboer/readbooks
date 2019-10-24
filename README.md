@@ -82,6 +82,9 @@ ID | status | [书名](https://book.douban.com/mine?status=wish) | time/author |
 68 | :heart: | [薛兆丰经济学讲义](https://book.douban.com/subject/30280804/) | time/薛兆丰| progress | | review | |
 69 | :heart: | [地中海史诗三部曲（珍藏版全三册）](https://book.douban.com/subject/27055137/) | time/[英] 罗杰·克劳利 | progress | | review | |
 70 | :heart: | [凤凰项目:一个IT运维的传奇故事](https://book.douban.com/subject/26644070/) | time/author | progress | | review | |
+71 | :green_book: | [敏捷软件测试](https://book.douban.com/subject/5338399/) | 20191023/(美)克里斯平//格雷戈里|译者 | progress | | review | |
+72 | :heart: | [DevOps实践指南](https://book.douban.com/subject/30186150/) | time/[美] Gene Kim / [美] Jez Humble / [美] Patrick | progress | | review | |
+73 | :heart: | [DevOps实施手册](https://book.douban.com/subject/30216612/) | time/[美]Sanjeev Sharma | progress | | review | |
 x | :heart: | [name]() | time/author | progress | | review | |
 x | [T] | test | | 190808 | |<b>test</b> <br> <ol><li>xx<li>yy<li>zz</ol> <br> <ul><li>xxx<li>yyy<li>zzz</ul>  <br> <li>xxxx<li>yyyy<li><i>zzzz</i>  |
 x | | 书名 | 时间/作者 | 进度 | | 后感 | |
