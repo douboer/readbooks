@@ -87,9 +87,9 @@ ID | status | [书名](https://book.douban.com/mine?status=wish) | time/author /
 71 | :green_book: |  [敏捷软件测试](https://book.douban.com/subject/5338399/)  |  20191023/(美)克里斯平//格雷戈里 / 译者  /  progress  <br><br>   
 72 | :heart: |  [DevOps实践指南](https://book.douban.com/subject/30186150/)  |  time/[美] Gene Kim / [美] Jez Humble / [美] Patrick  /  progress  /   <br><br>  review  
 73 | :heart: |  [DevOps实施手册](https://book.douban.com/subject/30216612/)  |  time/[美]Sanjeev Sharma  /  progress  /   <br><br>  review  
-x | :heart: | [name]() | time/author | progress | | review | |
+x | :heart: | [name]() | time/author / progress / / review
 x | [T] | test | | 190808 | |<b>test</b> <br> <ol><li>xx<li>yy<li>zz</ol> <br> <ul><li>xxx<li>yyy<li>zzz</ul>  <br> <li>xxxx<li>yyyy<li><i>zzzz</i>  |
-x | | 书名 | 时间/作者 | 进度 | | 后感 | |
+x | | 书名 | 时间/作者 / 进度 / / 后感
 ------------------------------------------------------
 
 ## 在读清单≤3
