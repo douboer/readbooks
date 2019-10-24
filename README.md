@@ -1,6 +1,7 @@
 # 阅读管理
 
 #### from 2019/4/8
+![img](imgs/haveaniceday1.jpg)
 
 ---------------------
 ```
@@ -103,7 +104,6 @@ ID||||||||
 
 [读书笔记](notehow.md)
 
-![img](imgs/haveaniceday1.jpg)
 
 
 
